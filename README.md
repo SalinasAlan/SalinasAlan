@@ -7,14 +7,14 @@ react and I currently studying next.js and GraphQL. 😁
 > 🔥 [Hacker News clone](https://github.com/SalinasAlan/myhackernews) - I created this proyect to imporve my skills with GraphQL.
 
 ## My Values 
-🧠 Mindset of learning
-✨ Autodidact
-🙌 Teamwork
+🧠 Mindset of learning </br>
+✨ Autodidact</br>
+🙌 Teamwork</br>
 
 ## Hobbies
-🏀 Basketball player
+🏀 Basketball player </br>
 🎶 Music lover
 
 ## Connect with Me
-[Twitter](https://twitter.com/alansalinas2)
+[Twitter](https://twitter.com/alansalinas2) </br>
 [Instagram](https://www.instagram.com/alansalinasdls/) 
