@@ -1,5 +1,5 @@
 # Hi there, I'm Alan Salinas 
-I'm a front end developer studying my last semester at [ITTToluca](http://www.ittoluca.edu.mx/). I love work with
+I'm a front end developer studying my last semester at [ITToluca](http://www.ittoluca.edu.mx/). I love work with
 react and I currently studying next.js and GraphQL. 😁
 
 ## My Last Project
