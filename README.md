@@ -16,5 +16,5 @@ react and I currently studying next.js and GraphQL. 😁
 🎶 Music lover
 
 ## Connect with Me
-[Twitter](https://twitter.com/alansalinas2) </br>
+[Twitter](https://twitter.com/alansalinasdls) </br>
 [Instagram](https://www.instagram.com/alansalinasdls/) 
